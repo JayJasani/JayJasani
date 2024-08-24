@@ -13,7 +13,7 @@
   
   ⚛️ I'm JavaScript Developer :)
   
-  🌱 I’m currently learning : Svelte.js
+  🌱 I’m currently learning : React-Native
 
   🤔 I’m Not looking for help
 
